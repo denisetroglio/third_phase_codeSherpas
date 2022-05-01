@@ -1,1 +1,1 @@
-# Third phase - Code Sherpas
+# Third phase - Code Sherpas 💻
