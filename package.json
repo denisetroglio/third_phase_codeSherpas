@@ -23,7 +23,6 @@
     "expressjs": "^1.0.1"
   },
   "devDependencies": {
-    "jest": "^28.0.3",
-    "supertest": "^6.2.3"
+    "jest": "^28.0.3"
   }
 }
