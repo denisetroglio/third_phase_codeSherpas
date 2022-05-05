@@ -2,7 +2,7 @@
 
 ---
 
-## 💻 Code Sherpas
+## Code Sherpas
 
 ### May 10th, 2022
 
@@ -22,6 +22,7 @@
 
 ## 👩‍💻The project:
 
+ - 🎮Create a game with the Code Sherpas team;
 ---
 
 ## 🚀How to run the application:
