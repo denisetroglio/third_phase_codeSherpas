@@ -15,6 +15,8 @@
 - npm install express (dependencies);
 - cors (requests to the server);
 - package.json configuration (start with nodemon src/main.js automatically);
+- npm install --save-dev jest;
+- npm install supertest --save-dev;
 
 ---
 
