@@ -1,0 +1,24 @@
+{
+  "name": "third_phase_codesherpas",
+  "version": "1.0.0",
+  "description": "----------------------------------------------------------------------- ## 💻 Code Sherpas ### May 10th, 2022",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisetroglio/third_phase_codeSherpas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisetroglio/third_phase_codeSherpas/issues"
+  },
+  "homepage": "https://github.com/denisetroglio/third_phase_codeSherpas#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "expressjs": "^1.0.1"
+  }
+}
