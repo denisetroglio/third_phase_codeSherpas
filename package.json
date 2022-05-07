@@ -5,7 +5,7 @@
   "main": "src/main.js",
   "scripts": {
     "start": "nodemon src/main.js",
-    "test": "jest --verbose"
+    "test": "jest --verbose --silent"
   },
   "repository": {
     "type": "git",
