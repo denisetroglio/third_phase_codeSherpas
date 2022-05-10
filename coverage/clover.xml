@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1652178287601" clover="3.2.0">
+  <project timestamp="1652178287601" name="All files">
+    <metrics statements="14" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0" elements="22" coveredelements="5" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="/mnt/c/Users/overb/Desktop/third_phase_CS/third_phase_codeSherpas/src/main.js">
+      <metrics statements="14" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
